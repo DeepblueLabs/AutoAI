@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: software
+  message: If you use this software, please cite it as below.
+  authors:
+  - family-names: Juan Camilo
+    given-names: Gallego Riveros
+    github: https://github.com/CamiloRX777
+  - family-names: Juan Manuel
+    given-names: Mafla
+    orcid: https://github.com/
+  title: "AutoAI by Deepblue Labs"
+  version: 1.0.0
+  date-released: 2023-1-10
+  license: GPL-3.0
+  url: "https://github.com/DeepblueLabs/AutoAI"
